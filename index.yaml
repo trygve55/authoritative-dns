@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  authoritative-dns:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-14T11:26:36.982789952+01:00"
+    description: A helm chart for the Bind9 DNS server with dynamic updates enabled.
+    digest: 6596b4e4e540c890c994c24f1f8b4b50b23cc0cc34901ace5a83ac211c70315e
+    name: authoritative-dns
+    type: application
+    urls:
+    - packaged/authoritative-dns-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-14T11:26:36.981926089+01:00"
